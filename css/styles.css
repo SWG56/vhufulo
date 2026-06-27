@@ -199,6 +199,7 @@ h2 {
 }
 
 .service-icon {
+    display: block;
     font-size: 2.5rem;
     color: #00ffc8;
     margin-bottom: 1rem;
