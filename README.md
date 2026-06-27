@@ -35,3 +35,5 @@ Only commit and push to `main` after this check passes.
 ## Deploying
 
 This is a static site — no build step required. To publish via GitHub Pages: repo **Settings → Pages → Deploy from a branch → `main` / root**.
+
+https://swg56.github.io/vhufulo/
